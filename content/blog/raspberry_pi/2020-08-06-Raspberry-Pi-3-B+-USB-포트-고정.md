@@ -2,8 +2,7 @@
 title: "Raspberry Pi 3 B+ USB 포트 고정"
 date: 2020-08-06T11:30:26+09:00
 draft: false
-tags: ["raspberry_pi", "usb", "serial"]
-categories: ["raspberry_pi"]
+category: "raspberry_pi"
 ---
 
 라즈베리파이에서 시리얼 통신할 때 USB 포트가 변경되면서 끊어지는 현상 발생.  

@@ -2,8 +2,7 @@
 title: "Raspberry Pi 3 B+ 고정IP 설정"
 date: 2020-07-17T18:00:54+09:00
 draft: False
-tags: ["raspberry_pi", "network"]
-categories: ["raspberry_pi"]
+category: "raspberry_pi"
 ---
 
 `/etc/dhcpcd.conf` 파일에 아래 내용 추가

@@ -2,8 +2,7 @@
 title: "Raspberry Pi 3 B+에서 Python 자동 실행"
 date: 2020-07-17T18:19:45+09:00
 draft: False
-tags: ["raspberry_pi", "shell_script"]
-categories: ["raspberry_pi"]
+category: "raspberry_pi"
 ---
 
 실행하고자 하는 파이썬 파일명과 경로가 `/home/pi/Desktop/filename.py` 라고 가정

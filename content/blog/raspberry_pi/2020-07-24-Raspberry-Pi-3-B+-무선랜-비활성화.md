@@ -2,8 +2,7 @@
 title: "Raspberry Pi 3 B+ 무선 랜 비활성화"
 date: 2020-07-24T12:23:43+09:00
 draft: False
-tags: ["raspberry_pi", "network"]
-category: ["raspberry_pi"]
+category: "raspberry_pi"
 ---
 
 유선 랜이 연결되어 있음에도 가끔 wifi로 잡히는 현상이 발생  
