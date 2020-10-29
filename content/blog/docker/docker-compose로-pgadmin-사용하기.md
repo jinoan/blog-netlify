@@ -38,7 +38,7 @@ draft: false
   $ sudo chmod 777 ~/Desktop/pgsql/pgadmin
   ```
 
-- `docker-compose up -d —build pgadmin` 하면 pgadmin이 서비스되는 Docker 환경이 생성됨
+- `docker-compose up -d -—build pgadmin` 하면 pgadmin이 서비스되는 Docker 환경이 생성됨
 
 - `~/Desktop/pgsql/pgadmin/storage/myid_example.com` 폴더 접근을 위해 권한 변경 (query tool 기능으로 저장한 sql 파일들이 이 폴더에 저장됨)
 
